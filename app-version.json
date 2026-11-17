@@ -1,0 +1,8 @@
+{
+  "android": {
+    "latest": "1.0.0",
+    "minimum": "1.0.0",
+    "url": "https://play.google.com/store/apps/details?id=com.mocklab.app",
+    "notes": ["첫 출시: 토익 6회분 · 토익스피킹 6회분 · 오픽 맞춤 인터뷰", "무료 자동 채점"]
+  }
+}
